@@ -20,7 +20,7 @@ void RndArray (int Size)
     Console.WriteLine(evenCount);
 }
 
-//RndArray(4);
+RndArray(4);
 
 // Задача 36: Задайте одномерный массив, заполненный случайными числами. Найдите сумму элементов, стоящих на нечётных позициях.
 
@@ -44,7 +44,7 @@ void OddPosArray (int Size)
     Console.WriteLine(oddPosSum);
 }
 
-//OddPosArray(4);
+OddPosArray(4);
 
 // Задача 38: Задайте массив вещественных чисел. Найдите разницу между максимальным и минимальным элементов массива.
 
